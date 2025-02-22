@@ -1,0 +1,83 @@
+
+.logo2{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    opacity: 0.75;
+}
+.logo{
+    background-color: rgba(0, 0, 0, 0.736);
+    width: 10%;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.log{
+    font-size:70px;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    position: relative;
+    top: 5%;
+}
+.login{
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.886);
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    height: 600px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 30px
+}
+#username2{
+    background-color: rgb(35, 35, 35);
+    width: 70%;
+    height: 10%;
+    border-radius: 5px;
+    border-style: none;
+    padding-left:16px;
+    color: white;
+}
+#password2{
+    background-color: rgb(35, 35, 35);
+    width: 70%;
+    height: 10%;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-style: none;
+    padding-left:16px;
+    color: white;
+}
+#passwordconfirm{
+    background-color: rgb(35, 35, 35);
+    width: 70%;
+    height: 10%;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-style: none;
+    padding-left:16px;
+    color: white;
+}
+#submit2{
+    width: 70%;
+    height: 10%;
+    border-radius: 5px;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    background-color: rgb(200, 0, 0);
+    margin-top: 40px;
+}
+#submit2:hover{
+    background-color: rgb(126, 0, 0);
+    color: rgb(193, 193, 193);
+    transition: 0.25s;
+}
+.sign{
+    margin-top: 20px;
+    color: rgb(101, 101, 101);
+    font-size: smaller;
+    font-family:Arial, Helvetica, sans-serif
+}
